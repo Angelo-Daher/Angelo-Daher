@@ -1,16 +1,54 @@
-## Hi there 👋
+# 👋 Olá! Eu sou Ângelo Daher
 
-<!--
-**Angelo-Daher/Angelo-Daher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+💻 Desenvolvedor em formação com foco em automações, IA, sistemas web e soluções digitais  
+🚀 Atualmente estudando Python, GitHub, lógica de programação, APIs e desenvolvimento Full Stack
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias e Ferramentas
+
+- Python
+- Git & GitHub
+- HTML5
+- CSS3
+- JavaScript
+- VS Code
+- Inteligência Artificial
+- Engenharia de Prompt
+- Vercel
+- Hostinger
+
+---
+
+## 📌 Projetos em Destaque
+
+### 🤖 Chatbot Especialista
+Chatbot desenvolvido utilizando Python e integração com IA para suporte e automação de atendimentos.
+
+### 🌐 Landing Pages Profissionais
+Criação de sites modernos focados em presença digital, SEO e conversão.
+
+### 📊 Sistemas Educacionais
+Projetos voltados para acompanhamento e organização de processos educacionais.
+
+---
+
+## 🧠 Como utilizo IA no meu fluxo de trabalho
+
+Utilizo Inteligência Artificial para estruturar soluções, automatizar tarefas, aumentar produtividade, criar protótipos rápidos e auxiliar no desenvolvimento de sistemas.
+
+Busco unir criatividade, lógica e tecnologia para resolver problemas reais.
+
+---
+
+## 📈 Estatísticas do GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Angelo-Daher&show_icons=true&theme=tokyonight)
+
+---
+
+## 📫 Contato
+
+- LinkedIn: (www.linkedin.com/in/ângelo-gabriel-28a14a200)
+- Email: angelogabrielangelo890@gmail.com
