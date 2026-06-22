@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou Ângelo Maia
+# 👋 Olá! Eu sou Ângelo Daher
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
 💻 Desenvolvedor em formação com foco em automações, IA, sistemas web e soluções digitais  
