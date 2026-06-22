@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou Ângelo Daher
+# 👋 Olá! Eu sou Ângelo Maia
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
 💻 Desenvolvedor em formação com foco em automações, IA, sistemas web e soluções digitais  
@@ -14,10 +14,11 @@
 - CSS3
 - JavaScript
 - VS Code
-- Inteligência Artificial
-- Engenharia de Prompt
+- IA
+- Agentes
 - Vercel
 - Hostinger
+- AWS
 
 ---
 
